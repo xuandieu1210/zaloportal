@@ -1,0 +1,6 @@
+{
+  "name": "Zalo Mini App Admin & API Portal (Hệ Thống Quản Lý Dữ Liệu Hành Chính)",
+  "description": "Nền tảng quản lý dữ liệu toàn diện và cung cấp REST API cho Zalo Mini App: Tổng quan, Danh bạ nội bộ, Bài viết CMS, Phản ánh kiến nghị, Bốc số chờ và Điều phối.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
